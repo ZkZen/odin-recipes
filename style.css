@@ -1,10 +1,11 @@
-h1{
-    text-align: center;
-    font-family: Helvetica, "Times New Roman", sans-serif;
+.title{
+    font-family: cursive;
 }
 
-h1 span{
-    background-color: goldenrod;
+h1{
+    text-align: left;
+    font-family: cursive;
+    background-color: whitesmoke;
 }
 
 .button1, 
